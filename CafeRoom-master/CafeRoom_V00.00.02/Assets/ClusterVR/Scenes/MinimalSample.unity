@@ -1200,7 +1200,7 @@ PrefabInstance:
     - target: {fileID: 3285372599545140635, guid: 1ef10c3770eb25243b55ac32e042a3b4,
         type: 3}
       propertyPath: worldOrEventId
-      value: 38452602-86bd-4022-9243-4484ea1eaf1c
+      value: 578fc507-2825-44e2-b24f-71d92fca357e
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1ef10c3770eb25243b55ac32e042a3b4, type: 3}

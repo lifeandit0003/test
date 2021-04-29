@@ -1173,7 +1173,7 @@ PrefabInstance:
     - target: {fileID: 1151574984436869630, guid: 47072f492105323449b2c2f6dc297997,
         type: 3}
       propertyPath: worldOrEventId
-      value: 28f2762f-0413-4506-baaa-ff2ad7ee0eae
+      value: 578fc507-2825-44e2-b24f-71d92fca357e
       objectReference: {fileID: 0}
     - target: {fileID: 1151574984508754212, guid: 47072f492105323449b2c2f6dc297997,
         type: 3}

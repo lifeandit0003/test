@@ -12,8 +12,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
-    Unity.Postprocessing.Runtime.dll:
-    - UnityEngine.Rendering.PostProcessing.PostProcessResources
     UnityEngine.UI.dll:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.ContentSizeFitter
@@ -21,7 +19,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/venue_5c2a3d632feffc723f115e8d18.unity:
+    Assets/venue_c78e80c88f9aa086099a39123c.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -51,17 +49,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11292}
     - Class: 114
-      Script: {instanceID: 11558}
+      Script: {instanceID: 11294}
     - Class: 114
-      Script: {instanceID: 11674}
+      Script: {instanceID: 11562}
     - Class: 114
-      Script: {instanceID: 11732}
+      Script: {instanceID: 11678}
     - Class: 114
-      Script: {instanceID: 12638}
+      Script: {instanceID: 11736}
     - Class: 114
-      Script: {instanceID: 12698}
+      Script: {instanceID: 12642}
     - Class: 114
-      Script: {instanceID: 12940}
+      Script: {instanceID: 12702}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -87,6 +85,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
   - hash:
       serializedVersion: 2
       Hash: 4bc4346a71a8df53a6b106f68ef3a190
@@ -123,14 +127,8 @@ ScriptsOnlyBuild:
     assemblyName: ClusterVR.CreatorKit.World.Implements.dll
     namespaceName: ClusterVR.CreatorKit.World.Implements.DespawnHeights
     className: DespawnHeight
-  - hash:
-      serializedVersion: 2
-      Hash: ae83e830e7a90c0aff918c4c2e520825
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: GraphicRaycaster
   platform: 5
   scenePathNames:
-  - Assets/venue_5c2a3d632feffc723f115e8d18.unity
+  - Assets/venue_c78e80c88f9aa086099a39123c.unity
   playerPath: C:/Users/user/AppData/Local/Temp/DefaultCompany/Cluster Creator Kit
-    Sample/StandaloneWindows/venue_5c2a3d632feffc723f115e8d18
+    Sample/StandaloneWindows/venue_c78e80c88f9aa086099a39123c
